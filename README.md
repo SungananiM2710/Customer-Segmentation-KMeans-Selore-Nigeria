@@ -46,10 +46,21 @@ The goal is to **segment customers into distinct groups** based on these feature
 
 ---
 
-## 📊 Technologies Used
+## 💻 Technologies Used
 
 - Python 🐍
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
 - Jupyter Notebook
+
+## 🧐 Key Observations:
+
+The analysis identified four distinct customer segments based on income and spending behavior: High Income/High Spending, Low Income/Low Spending, Low Income/High Spending (aspirational), and High Income/Low Spending (cautious).
+Each segment exhibits unique purchasing motivations and preferences, requiring tailored marketing approaches to maximize engagement and sales.
+
+## 💡 Key Recommendations:
+
+Implement multi-channel marketing strategies that align with each segment's characteristics and preferred communication channels.
+Personalize marketing messages, offers, and loyalty programs to resonate with the specific needs and values of each customer group.
+
